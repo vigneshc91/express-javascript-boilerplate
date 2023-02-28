@@ -1,0 +1,9 @@
+node_modules
+build
+storage/logs/*
+storage/test_report/*
+.env
+*.log
+*.html
+*.swp
+.vscode/
